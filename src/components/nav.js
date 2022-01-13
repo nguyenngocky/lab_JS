@@ -10,7 +10,6 @@ const Nav = {
                 <li><a class="lg:inline-flex lg:w-auto px-3 hover:text-slate-300" href="#">Chương trình đào tạo</a></li>
                 <li><a class="lg:inline-flex lg:w-auto px-3 hover:text-slate-300" href="#">Góc sinh viên</a></li>
                 <li><a class="lg:inline-flex lg:w-auto px-3 hover:text-slate-300" href="#">Tuyển dụng</a></li>
-                <li><a class="lg:inline-flex lg:w-auto px-3 hover:text-slate-300" href="/sign">Đăng ký</a></li>
               </ul>
             </nav>
           </div>
