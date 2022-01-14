@@ -5,6 +5,7 @@ import AboutPage from "./pages/about";
 import HomePage from "./pages/home";
 import NewsDetail from "./pages/newsDetail";
 import SignPage from "./pages/sign";
+import SignupPage from "./pages/signup";
 
 const router = new Navigo("/", { linksSelector: "a" });
 
@@ -27,6 +28,9 @@ router.on({
     },
     "/sign": () => {
         print(SignPage.render());
+    },
+    "/signup": () => {
+        print(SignupPage.render());
     },
 });
 
