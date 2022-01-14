@@ -5,7 +5,7 @@ const Nav = {
           <div class="nav">
             <nav>
               <ul class="flex text-white text-base">
-                <li><a class="lg:inline-flex lg:w-auto px-2 hover:text-slate-300" href="#">Trang chủ</a></li>
+                <li><a class="lg:inline-flex lg:w-auto px-2 hover:text-slate-300" href="/">Trang chủ</a></li>
                 <li><a class="lg:inline-flex lg:w-auto px-2 hover:text-slate-300" href="#">Tuyển sinh</a></li>
                 <li><a class="lg:inline-flex lg:w-auto px-2 hover:text-slate-300" href="#">Góc sinh viên</a></li>
                 <li><a class="lg:inline-flex lg:w-auto px-2 hover:text-slate-300" href="#">Tuyển dụng</a></li>
