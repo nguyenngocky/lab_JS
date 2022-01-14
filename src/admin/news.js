@@ -25,7 +25,7 @@ const news = {
                       Role
                     </th>
                     <th class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
-                      <a href="#" class="text-indigo-600 hover:text-indigo-900">Add</a>
+                      <a href="/admin/add" class="text-indigo-600 hover:text-indigo-900">Add</a>
                     </th>
                     <th scope="col" class="relative px-6 py-3">
                       <span class="sr-only">Edit</span>
