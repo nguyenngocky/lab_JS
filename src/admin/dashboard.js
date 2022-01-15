@@ -13,7 +13,7 @@ const dashboard = {
             </a>
             <a href="/admin/news" class="flex items-center text-red opacity-75 hover:opacity-100 py-4 pl-6 nav-item">
                 <i class="fas fa-sticky-note mr-3"></i>
-                Quản lí sinh viên
+                Quản lí bài viết
             </a>
             <a href="#" class="flex items-center text-red opacity-75 hover:opacity-100 py-4 pl-6 nav-item">
                 <i class="fas fa-table mr-3"></i>

@@ -9,6 +9,7 @@ import SignupPage from "./pages/signup";
 import dashboard from "./admin/dashboard";
 import news from "./admin/news";
 import add from "./admin/add";
+import edit from "./admin/edit";
 
 const router = new Navigo("/", { linksSelector: "a" });
 
@@ -43,6 +44,10 @@ router.on({
     },
     "/admin/add": () => {
         print(add.render());
+    },
+    "/admin/edit/:id": ({ data }) => {
+        const { id } = data;
+        print(edit.render(id));
     },
 });
 
